@@ -1,0 +1,11 @@
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.exe
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.deps.json
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.dll
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\bin\Debug\netcoreapp3.1\PizzaKiosk.pdb
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\obj\Debug\netcoreapp3.1\PizzaKiosk.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\obj\Debug\netcoreapp3.1\PizzaKiosk.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\obj\Debug\netcoreapp3.1\PizzaKiosk.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\obj\Debug\netcoreapp3.1\PizzaKiosk.dll
+C:\Users\Karl\Desktop\VS\PK\PizzaKiosk\PizzaKiosk\obj\Debug\netcoreapp3.1\PizzaKiosk.pdb
